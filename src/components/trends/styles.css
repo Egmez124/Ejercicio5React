@@ -1,0 +1,19 @@
+.trends-container {
+    display: flex;
+    flex-direction: column;   
+    width: 90%;
+    padding: 0em 1em;
+    margin: 0 auto;
+    border: solid 1px;
+}
+.row {
+    display: flex;
+    align-items: center;
+}
+.f1 {
+    flex-basis: 40%;
+}
+.f2 {
+    
+    text-align: center;
+}
